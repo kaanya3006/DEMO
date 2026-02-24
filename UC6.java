@@ -42,7 +42,7 @@ public class OOPSBannerApp {
         String[] P = getP();
         String[] S = getS();
 
-        // Combine letters row by row
+        
         for (int i = 0; i < O.length; i++) {
             String line = String.join("   ", O[i], P[i], P[i], S[i]);
             System.out.println(line);

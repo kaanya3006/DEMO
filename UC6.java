@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class OOPSBannerAPP {
 
     // Method to generate letter O
     public static String[] getO() {
